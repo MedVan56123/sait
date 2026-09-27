@@ -1,0 +1,59 @@
+<html>
+    <head>
+        <title>TECHNOGAME</title>
+    </head>
+    <body style="display: fex; background-color: #9932CC">
+        <header>
+            <div style="background-color: #4B0082">
+            <table style="width: 100%; text-align: center; padding: 20px; color: white">
+                <tr>
+                    <td><img src="https://technogame22.netlify.app/assets/character.png" width="70" height="80"/></td>
+                    <td><h2>TECHNOGAME</h2></td>
+                    <td><a style="color: white" href="">Об игре</a></td>
+                    <td><a style="color: white" href="">Скачать</a></td>
+                    <td><a style="color: white" href="">Новости</a></td>
+                </tr>
+            </table>
+            </div>
+        </header>
+        <main style="text-align: center; color: white; padding: 20px">
+            <div>
+            <table>
+            <h4>НОВАЯ ИГРА • НОВЫЙ МИР</h4>
+            <div style="background-color: #4B0082; padding: 20px">
+            <h2>ТВОЙ МИР - ТВОИ ЛАЙКИ</h2>
+            <p>Исследуй яркий мир TECHNOGAME, прокачивай рейтинг и собирай как можно больше лайков.</p>
+            <img src="https://technogame22.netlify.app/assets/character.png" width="140" height="200"/>
+            </div>
+            <h1>Подробнее об игре 👇</h1>
+            <table style="width: 100%; text-align: center; padding: 20px; background-color: #4B0082">
+                <tr>
+                    <td><h3>Собирай лайки.</h3> Зарабатывай лайки за задания и активности.</td>
+                    <td><h3>Прокачивай рейтинг.</h3> Открывай новые уровни и возможности.</td>
+                    <td><h3>Открывай персонажей.</h3> Собирай коллекцию героев и исследуй их способности.</td>
+                </tr>
+            </table>
+            <h1>Мир TECHNOGAME</h1>
+            <div style="background-color: #4B0082; padding: 20px">
+            <p>Исследуй локации, находи секреты и перемещайся между островами.</p>
+            <img src="https://technogame22.netlify.app/assets/world-map.png" weight="200" height="200"/>
+            </div>
+            <h1>НОВОСТИ</h1>
+            <div style="background-color: #4B0082; padding: 20px">
+            <p>15 сентября будет доступен бета тест игры</p>
+            </div>
+            </table>
+            </div>
+        </main>
+        <footer>
+            <div style="background-color: #4B0082; padding: 20px; color: white">
+            <table>
+                <tr>
+                    <td>© 2026 TECHNOGAME</td>
+                    <td>Контактная информация: белиберда</td>
+                </tr>
+            </table>
+            </div>
+        </footer>
+    </body>
+</html>
